@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @SuperSweatyTejas
-Just the biggest dripper
-
-![Click Here](https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&theme=onedark)
-
+<div align="center">
+        <img src="https://metrics.lecoq.io/SuperSweatyTejas?base.repositories=0&languages=1&isocalendar=1&followup=1">
+</div>
