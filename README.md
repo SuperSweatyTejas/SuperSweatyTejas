@@ -11,7 +11,10 @@
   </a>
 </a>
 
- -🌐Bot's Website **[here](https://amusic.xyz)**
+ - 🌐 Bot's  **[website](https://amusic.xyz)**
+
+
+<h3 align="left">Github Stats</h3>
 
 <a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&theme=dark" height="200"></a>
 
