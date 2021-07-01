@@ -15,5 +15,6 @@
 
 
 <h3 align="left">Github Stats</h3>
+<a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&theme=dark" height="200"></a>
 
-<p><img align="center" src="https://metrics.lecoq.io/SuperSweatyTejas?base.repositories=0&languages=1&isocalendar=1&followup=1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSweatyTejas&show_icons=true&theme=dark" alt="SuperSweatyTejas" /></p>
