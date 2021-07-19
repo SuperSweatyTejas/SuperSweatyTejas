@@ -13,9 +13,11 @@
 
  - 🌐 Bot's  **[website](https://amusic.xyz)**
 
+<h2 align="center">Github Stats</h2>
 
-<h3 align="left">Github Stats</h3>
-<a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&theme=dark" height="200"></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSweatyTejas&show_icons=true&theme=dark" alt="SuperSweatyTejas" /></p>
+<p align="center">
+    <a href="https://github.com/SuperSweatyTejas">
+        <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSweatyTejas&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+</p><br>
 <a href="https://github.com/SuperSweatyTejas"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperSweatyTejas&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
