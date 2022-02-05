@@ -10,4 +10,8 @@
     </a>
 </p><br>
 <a href="https://github.com/SuperSweatyTejas"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperSweatyTejas&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+
+</p>
+
+<p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSweatyTejas&layout=compact&theme=tokyonight" />
