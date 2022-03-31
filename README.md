@@ -23,5 +23,5 @@ I'm a student interested in full stack development
        <p align="center">  
 
  <a href="https://github.com/SuperSweatyTejas">
-<img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSweatyTejas&layout=compact&dark=buefy&hide_border=true"/>
+<img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSweatyTejas&layout=compact&theme=dark&hide_border=true"/>
 </a>
