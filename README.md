@@ -14,8 +14,9 @@ I'm a student interested in full stack development
        �java
 
 <h2 align="center">Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="Assassin-1234" /> 
+
 <p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="Assassin-1234" /> 
 <a href="https://github.com/SuperSweatyTejas">
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSweatyTejas&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a>
