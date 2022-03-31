@@ -15,8 +15,13 @@ I'm a student interested in full stack development
 
 <h2 align="center">Github Stats</h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuperSweatyTejas&show_icons=true&layout-compact&theme=tokyonight&&hide_border=true&count_private=true&include_all_commits=true" alt="Assassin-1234" /> 
+<p align="center">  
+  
 <a href="https://github.com/SuperSweatyTejas">
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SuperSweatyTejas&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a>
+       <p align="center">  
+
+ <a href="https://github.com/SuperSweatyTejas">
+<img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSweatyTejas&layout=compact&dark=buefy&hide_border=true"/>
 </a>
