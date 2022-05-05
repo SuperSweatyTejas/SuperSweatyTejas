@@ -1,18 +1,6 @@
 <h1 align="center">Hello, I'm Tejas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashSaini99&label=Profile%20views&color=0e75b6&style=flat" alt="SuperSweatyTejas" /> </p>
 
-
-I'm a student interested in full stack development 
-
-## languages I know:
-       �javascript
-       �typescript
-       �html
-       �css
-## languages I'm learning: 
-       �python
-       �java
-
 <h2 align="center">Github Stats</h2>
 
 <p align="center">  
